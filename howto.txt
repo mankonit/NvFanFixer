@@ -1,0 +1,12 @@
+delivery:
+- nvapi64_78.dll doit etre copié dans le chemin de l'exe
+
+todo:
+- delivery de la dll avec la compil
+
+docs:
+http://docs.nvidia.com/gameworks/content/gameworkslibrary/coresdk/nvapi/index.html
+https://1vwjbxf1wko0yhnr.wordpress.com/
+https://stackoverflow.com/questions/13291783/how-to-get-the-id-memory-address-of-dll-function
+https://github.com/reimashi/nvapi.net/wiki/NvAPI-Functions
+http://www.thewindowsclub.com/make-programs-run-on-startup-windows

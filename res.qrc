@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file alias="nv1_green">res/nv1_green.png</file>
+        <file alias="nv1_red">res/nv1_red.png</file>
+        <file alias="nv1sq_green">res/nv1sq_green.png</file>
+        <file alias="nv1sq_red">res/nv1sq_red.png</file>
+    </qresource>
+</RCC>
